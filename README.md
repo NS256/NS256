@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NS256
+- 👀 I’m interested in web based application development using HTML, CSS and JavaScript
+- 🌱 I’m currently learning SQL.
