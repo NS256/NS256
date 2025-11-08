@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @NS256
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Application and Backend Development in Java.
+- 🌱 I’m currently building my knowledge in React and NodeJS to build web applications.
